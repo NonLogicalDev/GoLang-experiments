@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"nonlogical.net/go/go-prompt/cmd/gorlang/actor"
+	"EXP/pkg/actor"
 )
 
 type PipeData struct {

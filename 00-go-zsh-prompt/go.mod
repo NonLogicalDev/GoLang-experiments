@@ -1,4 +1,4 @@
-module nonlogical.net/go/go-prompt
+module EXP
 
 go 1.14
 
